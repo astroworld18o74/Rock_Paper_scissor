@@ -7,8 +7,7 @@
 <body>
 <div class="container">
 <h1>Welcome to Broken Rock Paper Scissors</h1>
-<p><strong>Note:</strong> This sample code is only
-partially done and serves only as a starting point for the assignment.
+<p><strong>Note:</strong> This game is made just for learning purpose.
 </p>
 <p>
 <a href="login.php">Please Log In</a>
